@@ -11,7 +11,7 @@ solve - 1 argument, a list of the order of buttons pressed based on their positi
 
 Example:
 'generate' returns [7,2,5,4]
-passing 'solve' [1,3,2,0] returns True
+passing 'solve' [1,3,2,0] returns True eg. the proper button order is 2,4,5,7
 [1,3,2,0] implies you pressed the buttons in the order of 2,4,5,7
 
 The tester will generate an output as is seen below:
